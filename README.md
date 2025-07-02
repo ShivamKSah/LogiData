@@ -2,7 +2,7 @@
 
 A modern, full-stack dashboard for uploading, validating, and analyzing CSV datasets with real-time API logging, analytics, and AI-powered insights.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)]([YOUR_LIVE_LINK_HERE](https://logi-data.vercel.app/))
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://logi-data.vercel.app/)
 
 ---
 
